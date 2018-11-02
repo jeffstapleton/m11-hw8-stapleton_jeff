@@ -1,4 +1,4 @@
-class Desserts = {
+class Desserts {
   constructor (type, calories) {
     
   }
