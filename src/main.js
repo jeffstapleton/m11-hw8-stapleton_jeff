@@ -2,7 +2,12 @@ class Desserts {
   constructor (type, calories) {
     this.type = type;
     this.calories = calories;
-    console.log('Eating');
   }
-};
+}
+
+class IceCream extends Desserts {
+  constructor (type, calories, flavor, scoops){
+    
+  }
+}
 
